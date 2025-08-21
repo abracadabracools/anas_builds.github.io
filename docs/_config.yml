@@ -32,9 +32,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+  # - jekyll-feed
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 #google_analytics: [Your Google Analytics tracking ID]
 # Exclude from processing.
