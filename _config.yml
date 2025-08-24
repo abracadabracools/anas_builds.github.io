@@ -1,8 +1,8 @@
 # Jekyll configuration for GitHub Pages with Architect theme
 remote_theme: pages-themes/architect@v0.2.0
-title: anas log
+title: anas_builds
 description: >-
-  Welcome to my new GitHub Pages site built with the Architect theme!
+  Welcome to my Page ! I find myself constatnt hustler with a passion for knowledge . I am always eager to learn new things and take on new challenges. This site is a reflection of my journey and interests.  
 baseurl: "/anas_builds.github.io"
 url: "https://abracadabracools.github.io"
 plugins:
