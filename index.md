@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Welcome to Anas Log!
+# Welcome to Anas Hustle Lab!
 
-This is your new GitHub Pages site using the Architect theme.
-
-You can start customizing your site by editing this file.
+Welcome to my Page ! I find myself constant hustler with a passion for knowledge .
+   I am always eager to learn new things and take on new challenges. 
+   This site is a reflection of my journey and interests.
