@@ -1,5 +1,4 @@
----
-layout: home
+layout: default
 ---
 
 # Welcome to Anas Log!
